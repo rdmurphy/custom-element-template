@@ -1,0 +1,9 @@
+{
+	"root": true,
+	"globals": {
+		"CustomElementElement": "readonly"
+	},
+	"parser": "@typescript-eslint/parser",
+	"plugins": ["@typescript-eslint"],
+	"extends": ["plugin:unicorn/recommended"]
+}
