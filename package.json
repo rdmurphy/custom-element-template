@@ -1,5 +1,6 @@
 {
 	"name": "custom-element-element",
+	"description": "An opinionated template for creating a custom element.",
 	"version": "0.0.0",
 	"type": "module",
 	"files": [
@@ -13,6 +14,12 @@
 			"require": "./dist/custom-element.umd.cjs"
 		}
 	},
+	"keywords": [
+		"web-component",
+		"custom-element"
+	],
+	"repository": "rdmurphy/custom-element-element",
+	"license": "MIT",
 	"scripts": {
 		"clean": "premove dist",
 		"lint": "eslint src --ext .ts,.js",
