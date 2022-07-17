@@ -1,4 +1,4 @@
-# <custom-element> element
+# `<custom-element>` element
 
 An opinionated template for creating a custom element.
 
