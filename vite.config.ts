@@ -10,7 +10,7 @@ export default defineConfig({
 		emptyOutDir: false,
 		lib: {
 			entry: 'src/custom-element.ts',
-			name: 'CustomElement',
+			name: 'CustomElementElement',
 			fileName: 'custom-element',
 		},
 	},
